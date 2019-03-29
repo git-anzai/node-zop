@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "barcode": "^0.1.0",
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1",
+    "imageMagick": "^0.1.2",
+    "mysql": "^2.16.0",
+    "node-fetch": "^2.3.0",
+    "querystring": "^0.2.0",
+    "zopsdk-node": "0.0.1"
+  }
+}
